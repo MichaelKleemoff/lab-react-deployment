@@ -1,0 +1,60 @@
+body {
+	margin: auto;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: coral;
+}
+
+h1 {
+	font-family: fantasy;
+	font-style: italic;
+	color: purple;
+	font-size: 30px;
+}
+
+h2 {
+	color: azure;
+}
+
+h3 {
+	text-decoration: underline;
+	color: azure;
+}
+
+ul {
+	margin: auto;
+	list-style-type: none;
+}
+
+p {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: azure;
+}
+
+ol {
+	font-weight: bold;
+}
+
+li {
+	margin: auto;
+	list-style-position: inside;
+	border: 1px solid red;
+	border-radius: 10px;
+	width: 60vw;
+	color: blue;
+	background-color: lightpink;
+	padding: 30px;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	border: 3px inset gold;
+}
+
+.intro {
+	font-size: 20px;
+}
